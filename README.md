@@ -41,5 +41,9 @@ Plot](https://github.com/sevdaimany/ResNet50-ChestCancer-Detection/blob/master/t
 The x-axis represents the training epochs, while the y-axis represents the accuracy.
 
 
+## Additional Resources
+
+- If you want to learn more about the ResNet architecture, you can read this [article on 
+ResNet](https://arxiv.org/abs/1512.03385).
 
 
