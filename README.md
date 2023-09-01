@@ -38,7 +38,7 @@ illustrating the accuracy of the model on both the training and validation datas
 ![Training and Validation Accuracy 
 Plot](https://github.com/sevdaimany/ResNet50-ChestCancer-Detection/blob/master/train_val_plot.png)
 
-The x-axis represents the training epochs, while the y-axis represen
+The x-axis represents the training epochs, while the y-axis represents the accuracy.
 
 
 
